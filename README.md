@@ -2,7 +2,7 @@
 
 **Name:** P S HARSHAVARDHAN · **Registration number:** 252U1R9111 · **Section:** 111 CSE GEN AI 2B
 
-**Live link:** <paste your deployed URL here, or write: Not deployed because ... (and add Postman screenshots)>
+**Live link:** https://lab-1-express-js.onrender.com/
 
 ## How to run
 
